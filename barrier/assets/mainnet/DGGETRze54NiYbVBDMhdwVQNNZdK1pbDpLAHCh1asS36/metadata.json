@@ -1,0 +1,11 @@
+{
+  "name": "Aarush Coin",
+  "symbol": "ARUAS",
+  "description": "⚡ Blue lightning coin created by Aarush",
+  "image": "logo.png",
+  "external_url": "",
+  "seller_fee_basis_points": 0,
+  "attributes": [],
+  "collection": null,
+  "decimals": 9
+}
