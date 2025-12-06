@@ -1,0 +1,12 @@
+{
+  "name": "Aarush Coin",
+  "symbol": "⚡",
+  "description": "Aarush Coin — a community driven Solana token created by Aarush.",
+  "image": "https://raw.githubusercontent.com/aarushasoffical/token-list/main/assets/mainnet/5eHSjLZahnEwSiWQizHp2ND69Wna3HjNJZEpQJMQhXLJ/logo.png",
+  "extensions": {
+    "website": "https://sites.google.com/view/aarush-coin/home  "
+  },
+  "tags": ["aarush", "solana", "community", "utility"],
+  "creator": "Aarush"
+}
+
